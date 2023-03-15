@@ -2,7 +2,7 @@ body {
   background: #004E7A;
 
 }
-p{
+.apresentacao{
   position: absolute;
 width: 529px;
 height: 200px;
@@ -13,7 +13,7 @@ font-family: 'Inter';
 font-style: italic;
 font-weight: 300;
 font-size: 40px;
-line-height: 48px;
+line-height: 50px;
 
 color: #860808;
 }
@@ -35,3 +35,52 @@ top: 0px;
 
 
 border-radius: 10px;
+}
+
+.retangvermelho{
+  position: absolute;
+width: 223px;
+height: 1000px;
+left: 1217px;
+top: 24px;
+
+background: #BE3232;
+}
+.retanguloverde{
+
+position: absolute;
+width: 242px;
+height: 1000px;
+left: 975px;
+top: 24px;
+
+background: #18BB94
+}
+{
+  position: absolute;
+width: 322px;
+height: 330px;
+left: 1076px;
+top: 944.93px;
+
+background: #000000;
+transform: rotate(-55.36deg);
+}
+
+p{
+  position: absolute;
+width: 280px;
+height: 48px;
+left: 52px;
+top: 397px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+border: 1px solid #FF0000;
+}
